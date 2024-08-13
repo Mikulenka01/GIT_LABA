@@ -1,0 +1,14 @@
+a = 20
+b = 10
+c = a + b
+
+print (c)
+
+
+jmeno = "Petr"
+veta = "Ahoj, jmenuji se " + jmeno + "!"
+print(veta)
+
+x = 18
+x = 20
+print(x)
